@@ -2,7 +2,7 @@
 
 Este é um repositório iniciar o git status.
 
-Saiba mais em [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
+Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
 
 [![Marcus's github stats](https://github-readme-stats.vercel.app/api?username=marcusroque&count_private=true)](https://github.com/marcusroque)
 
