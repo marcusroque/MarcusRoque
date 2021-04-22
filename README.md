@@ -4,7 +4,7 @@ Apaixonado por Games, Musicas e Séries e um entusiasta da computação e progra
 
 Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
 
-[![Marcus's github stats](https://github-readme-stats.vercel.app/api?username=marcusroque&show_icons=true&theme=radicalw")](https://github.com/marcusroque)
+[![Marcus's github stats](https://github-readme-stats.vercel.app/api?username=marcusroque&show_icons=true&theme=radical")](https://github.com/marcusroque)
 [![Marcus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusroque&layout=compact&langs_count=8&theme=radical)](https://github.com/marcusroque)
 
 
