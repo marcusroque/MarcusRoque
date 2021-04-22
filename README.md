@@ -1,5 +1,7 @@
 # Olá!!! Eu sou o Marcus Roque 
 
+Apaixonado por Games, Musicas e Séries e um entusiasta da computação e programação desde cedo.
+
 Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
 
 [![Marcus's github stats](https://github-readme-stats.vercel.app/api?username=marcusroque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")](https://github.com/marcusroque)
