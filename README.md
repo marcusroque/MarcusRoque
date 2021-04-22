@@ -18,7 +18,6 @@ Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
   <a href="https://www.youtube.com/channel/UC2ABWZ-CVxsKttJqqviN2lg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/marcusroquejr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
 ##
 
 Gostou do curso? Que mais? Ajude com uma doação, até um café é válido =)
