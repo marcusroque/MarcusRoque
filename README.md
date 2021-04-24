@@ -11,7 +11,7 @@ Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
 </div>
   
   ##
-  
+  # CONTATO:
   <div>
   <a href = "mailto: merpjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-evandro-roque-pereira-junior-14594123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
