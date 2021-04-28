@@ -1,6 +1,6 @@
 # Olá!!! Eu sou o Marcus Roque 
 
-Apaixonado por Games, Musicas e Séries e um entusiasta da computação e programação desde cedo.
+Apaixonado por Games, Musicas e Séries, viciado em aprender e um entusiasta da computação e programação desde cedo.
 
 Meu Site: [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
 
